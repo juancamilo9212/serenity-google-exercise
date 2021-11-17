@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.com.sofka.calidad.googlesuite.runners.GoogleTranslateRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="PSOFKA0316.local" time="0.0">
+  <properties/>
+  <system-out><![CDATA[10:48:47.265 [Test worker] DEBUG io.cucumber.core.plugin.SerenityReporter - Running feature from file:///Users/juan.camargo/Documents/screenPlayExercise/src/test/resources/features/google_translate.feature
+10:48:47.567 [Test worker] INFO  - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+10:48:47.577 [Test worker] DEBUG net.thucydides.core.steps.StepEventBus - Test suite started for story net.thucydides.core.model.Story@d3613256
+10:48:47.581 [Test worker] INFO  - Test Suite Started: Google Translate
+
+1 Scenarios (?[32m1 passed?[0m)
+3 Steps (?[32m3 passed?[0m)
+0m1.243s
+
+
+10:48:48.518 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+10:48:48.701 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+10:48:48.724 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.json.JSONTestOutcomeReporter@60d434d3
+10:48:48.726 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Google Translate:translate from english to spanish
+10:48:48.727 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@60d434d3: Generating report for test outcome: Google Translate:translate from english to spanish
+10:48:48.736 [pool-1-thread-1] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for translate from english to spanish to file /Users/juan.camargo/Documents/screenPlayExercise/target/site/serenity/59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c.json (using temp file /Users/juan.camargo/Documents/screenPlayExercise/target/site/serenity/59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c.jsonba527d5e-3638-48c2-a168-336a3c29f40f)
+10:48:48.787 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Google Translate:translate from english to spanish done
+10:48:48.791 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+10:48:48.791 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 66 ms
+10:48:48.791 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@3e9140ad
+10:48:48.793 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Google Translate:translate from english to spanish
+10:48:48.794 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@3e9140ad: Generating report for test outcome: Google Translate:translate from english to spanish
+10:48:48.843 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Added feature Google Translate
+10:48:49.028 [pool-2-thread-1] DEBUG serenity.reporting - Generating report in 59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c.html
+10:48:49.645 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Google Translate:translate from english to spanish done
+10:48:49.646 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+10:48:49.646 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 855 ms
+10:48:49.853 [Test worker] DEBUG io.cucumber.core.plugin.SerenityReporter - Cleanup test resources for URI file:///Users/juan.camargo/Documents/screenPlayExercise/src/test/resources/features/google_translate.feature
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
