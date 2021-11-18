@@ -5,14 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f293b15a-578b-437b-a16d-6e02f0816434" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/tasks/GoTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/userinterface/GoogleHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/userinterface/GoogleResults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/userinterface/GoogleTranslatePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/sofka/calidad/googlesuite/tasks/OpenTheBrowser 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/sofka/calidad/googlesuite/tasks/OpenTheBrowser.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/sofka/calidad/googlesuite/tasks/OpenTheBrowser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/sofka/calidad/googlesuite/stepdefinitions/GoogleTranslateStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/co/com/sofka/calidad/googlesuite/stepdefinitions/GoogleTranslateStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Google#20Translate.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/Google#20Translate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.sofka.calidad.googlesuite.runners.GoogleTranslateRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.sofka.calidad.googlesuite.runners.GoogleTranslateRunner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.sofka.calidad.googlesuite.runners.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.sofka.calidad.googlesuite.runners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Google#20Translate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-Google#20Translate.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.sofka.calidad.googlesuite.runners.GoogleTranslateRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.sofka.calidad.googlesuite.runners.GoogleTranslateRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/tasks/OpenTheBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/tasks/OpenTheBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/sofka/calidad/googlesuite/stepdefinitions/GoogleTranslateStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/sofka/calidad/googlesuite/stepdefinitions/GoogleTranslateStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/3d3e3b14e118653a8ff20c34debfad349e413887f5a09a63528e7cabea654264.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/3d3e3b14e118653a8ff20c34debfad349e413887f5a09a63528e7cabea654264.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5e59b8c841a66d1270073e4e6fa5848fd66d44860840a1867b3965e7af0db5c6.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/5e59b8c841a66d1270073e4e6fa5848fd66d44860840a1867b3965e7af0db5c6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/bde4fca42ca8baa0fe2eac76a241c84327dfe4ca903a1daa7cae83a1035d4745.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/bde4fca42ca8baa0fe2eac76a241c84327dfe4ca903a1daa7cae83a1035d4745.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +100,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="GoogleTranslateRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -108,5 +141,26 @@
       <updated>1637115993112</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
