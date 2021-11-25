@@ -7,6 +7,6 @@
 
     Scenario: translate from english to spanish
       Given that Juan wants to translate a word
-      When she translates the word cheese from english to spanish
-      Then she should see the word queso in the screen
+      When she translates the word "cheese" from english to spanish
+      Then she should see the word "queso" in the screen
 

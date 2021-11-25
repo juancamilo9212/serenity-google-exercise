@@ -4,44 +4,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f293b15a-578b-437b-a16d-6e02f0816434" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/tasks/GoTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/userinterface/GoogleHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/userinterface/GoogleResults.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/userinterface/GoogleTranslatePage.java" afterDir="false" />
+    <list default="true" id="f293b15a-578b-437b-a16d-6e02f0816434" name="Changes" comment="Implementation for open the browser task, Implementation for reaching Google Translate page">
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/questions/TheWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/tasks/Translate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc 2.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/sofka/calidad/googlesuite/tasks/OpenTheBrowser 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/sofka/calidad/googlesuite/tasks/OpenTheBrowser.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/sofka/calidad/googlesuite/tasks/OpenTheBrowser.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/sofka/calidad/googlesuite/stepdefinitions/GoogleTranslateStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/co/com/sofka/calidad/googlesuite/stepdefinitions/GoogleTranslateStepDefinitions.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Google#20Translate.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/Google#20Translate.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.sofka.calidad.googlesuite.runners.GoogleTranslateRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.sofka.calidad.googlesuite.runners.GoogleTranslateRunner.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.sofka.calidad.googlesuite.runners.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.sofka.calidad.googlesuite.runners.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/features/google_translate.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/features/google_translate.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Google#20Translate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-Google#20Translate.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.sofka.calidad.googlesuite.runners.GoogleTranslateRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.sofka.calidad.googlesuite.runners.GoogleTranslateRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/tasks/OpenTheBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/tasks/OpenTheBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/userinterface/GoogleTranslatePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/calidad/googlesuite/userinterface/GoogleTranslatePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/co/com/sofka/calidad/googlesuite/stepdefinitions/GoogleTranslateStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/sofka/calidad/googlesuite/stepdefinitions/GoogleTranslateStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/google_translate.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/google_translate.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/2b56b574d89834f6aa192f59fa6627b776a6c288e09dbc7d06c356f5bad5b3c0.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/2b56b574d89834f6aa192f59fa6627b776a6c288e09dbc7d06c356f5bad5b3c0.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/3d3e3b14e118653a8ff20c34debfad349e413887f5a09a63528e7cabea654264.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/3d3e3b14e118653a8ff20c34debfad349e413887f5a09a63528e7cabea654264.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/4b294b1619088f2a9d6980f00f5a1de11753e025b0ded30855a4ff92b4a5f6aa.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/4b294b1619088f2a9d6980f00f5a1de11753e025b0ded30855a4ff92b4a5f6aa.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c_screenshots.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/5e59b8c841a66d1270073e4e6fa5848fd66d44860840a1867b3965e7af0db5c6.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/5e59b8c841a66d1270073e4e6fa5848fd66d44860840a1867b3965e7af0db5c6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7ab8afc80471032761d427ddc2a777776a152d1b18a3c9b8a125c150d3da101d.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/7ab8afc80471032761d427ddc2a777776a152d1b18a3c9b8a125c150d3da101d.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7bd64565d5efc5e865b1722a0a072a98c738681673c2eb89f54e2d0f71e9d47c.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/7bd64565d5efc5e865b1722a0a072a98c738681673c2eb89f54e2d0f71e9d47c.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-59fa2e4d051b1fd957091517d47be255fb15dc1eab0678c6d419f27020b4261c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ad49b20f0f1610c889245a77aaa8228354f3ef0cbb532652966f0d359485e5da.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/ad49b20f0f1610c889245a77aaa8228354f3ef0cbb532652966f0d359485e5da.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/af346bdb77858e8b9dd8bd5bfe57888793cf79caf5c16bf7fa2e267a71b7c409.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/af346bdb77858e8b9dd8bd5bfe57888793cf79caf5c16bf7fa2e267a71b7c409.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b7239049289e4aed7357b2e919617d73d0010c41abd9873ff2dda435ba294535.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b7239049289e4aed7357b2e919617d73d0010c41abd9873ff2dda435ba294535.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ba325d71b7383561dc8bbff8291f25e08b419a3e5e530abb32fadb958015de4d.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/ba325d71b7383561dc8bbff8291f25e08b419a3e5e530abb32fadb958015de4d.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/bce2d2a108bbb5df23fab3c746eaa6b1b768e2f33dbb6b135b1a24c486dec2d0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/bce2d2a108bbb5df23fab3c746eaa6b1b768e2f33dbb6b135b1a24c486dec2d0.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/bde4fca42ca8baa0fe2eac76a241c84327dfe4ca903a1daa7cae83a1035d4745.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/bde4fca42ca8baa0fe2eac76a241c84327dfe4ca903a1daa7cae83a1035d4745.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/eace45a19cf7061f1f127463bca8decbea827bdcdc0ec07b45bd3455eebfc38a.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/eace45a19cf7061f1f127463bca8decbea827bdcdc0ec07b45bd3455eebfc38a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/f1b3cc6f6d630bceda9bfdc81605339d8de7c3a6d0bccea26cac6939076ca32c.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/f1b3cc6f6d630bceda9bfdc81605339d8de7c3a6d0bccea26cac6939076ca32c.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/results.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterDir="false" />
@@ -103,6 +123,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="co.com.sofka.calidad.googlesuite.tasks" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="GoogleTranslateRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -140,6 +165,14 @@
       <option name="presentableId" value="Default" />
       <updated>1637115993112</updated>
     </task>
+    <task id="LOCAL-00001" summary="Implementation for open the browser task, Implementation for reaching Google Translate page">
+      <created>1637206756194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637206756194</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +185,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implementation for open the browser task, Implementation for reaching Google Translate page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementation for open the browser task, Implementation for reaching Google Translate page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
